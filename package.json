@@ -1,0 +1,19 @@
+{
+  "name": "back-path",
+  "version": "1.0.0",
+  "description": "This is a simple code for just getting dir corresponding to the . path ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/BACK-PATH.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/BACK-PATH/issues"
+  },
+  "homepage": "https://github.com/alestor123/BACK-PATH#readme"
+}
